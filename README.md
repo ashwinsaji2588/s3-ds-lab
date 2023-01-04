@@ -13,5 +13,5 @@ evaluate it using stack.](https://github.com/ashwinsaji2588/s3-ds-lab/blob/main/
 7.[Write a menu driven C program to implement DEQUEUE using arrays.](https://github.com/ashwinsaji2588/s3-ds-lab/blob/main/deque.c)
 8. [Write a menu driven C program to implement various linked list operations.](https://github.com/ashwinsaji2588/s3-ds-lab/blob/main/linked_list.c)
 9. [Write a menu driven C program. to representation polynomials using linked list.](https://github.com/ashwinsaji2588/s3-ds-lab/blob/main/poly_linked.c)
-10. [Write a menu driven C program to implement binary trees using linked lists and perform the following operations:
-a. Insert a new node. b. Delete a specified node  c. Search a specified node](https://github.com/ashwinsaji2588/s3-ds-lab/blob/main/bst.c)
+10. [Write a menu driven C program to implement a binary search tree using linked list and perform the following operations on it
+a. Insertion  b. Deletion.  c. Traversals.  d. Search for a specified node](https://github.com/ashwinsaji2588/s3-ds-lab/blob/main/bst.c)
