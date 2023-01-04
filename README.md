@@ -10,8 +10,8 @@ evaluate it using stack.](https://github.com/ashwinsaji2588/s3-ds-lab/blob/main/
 5. [Write a menu driven C program to implement Queues and Circular Queue using arrays and perform the following operation 
 (i) Insert (ii)Delete (iii)is empty) (iv) Is full) (v) Display](https://github.com/ashwinsaji2588/s3-ds-lab/blob/main/q.c)
 6. [Write a menu driven C program to implement Priority Queues using arrays.](https://github.com/ashwinsaji2588/s3-ds-lab/blob/main/priority.c)
-7.[Write a menu driven C program to implement DEQUEUE using arrays.](https://github.com/ashwinsaji2588/s3-ds-lab/blob/main/priority.c)
-8. [Write a menu driven C program to implement various linked list operations.](https://github.com/ashwinsaji2588/s3-ds-lab/blob/main/priority.c)
-9. [Write a menu driven C program. to representation polynomials using linked list.](https://github.com/ashwinsaji2588/s3-ds-lab/blob/main/priority.c)
+7.[Write a menu driven C program to implement DEQUEUE using arrays.](https://github.com/ashwinsaji2588/s3-ds-lab/blob/main/deque.c)
+8. [Write a menu driven C program to implement various linked list operations.](https://github.com/ashwinsaji2588/s3-ds-lab/blob/main/linked_list.c)
+9. [Write a menu driven C program. to representation polynomials using linked list.](https://github.com/ashwinsaji2588/s3-ds-lab/blob/main/poly_linked.c)
 10. [Write a menu driven C program to implement binary trees using linked lists and perform the following operations:
-a. Insert a new node. b. Delete a specified node  c. Search a specified node](https://github.com/ashwinsaji2588/s3-ds-lab/blob/main/priority.c)
+a. Insert a new node. b. Delete a specified node  c. Search a specified node](https://github.com/ashwinsaji2588/s3-ds-lab/blob/main/bst.c)
