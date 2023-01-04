@@ -15,3 +15,9 @@ evaluate it using stack.](https://github.com/ashwinsaji2588/s3-ds-lab/blob/main/
 9. [Write a menu driven C program. to representation polynomials using linked list.](https://github.com/ashwinsaji2588/s3-ds-lab/blob/main/poly_linked.c)
 10. [Write a menu driven C program to implement a binary search tree using linked list and perform the following operations on it
 a. Insertion  b. Deletion.  c. Traversals.  d. Search for a specified node](https://github.com/ashwinsaji2588/s3-ds-lab/blob/main/bst.c)
+11. [Write a menu driven C program to implement searching algorithms
+a. Linear search  b. Binary search.](https://github.com/ashwinsaji2588/s3-ds-lab/blob/main/search.c)
+12. [Write a menu driven C program to implement the following sorting techniques
+a. Bubble Sort   b.Insertion Sort  c. Selection Sort](https://github.com/ashwinsaji2588/s3-ds-lab/blob/main/sort.c)
+13. [Write a menu driven C program to implement (i) Quick sort   (ii)Mergesort](https://github.com/ashwinsaji2588/s3-ds-lab/blob/main/qsort.c)
+14. [Write a C program to implement heap sort](https://github.com/ashwinsaji2588/s3-ds-lab/blob/main/heapify.c)
